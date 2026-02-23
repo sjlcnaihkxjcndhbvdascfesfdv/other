@@ -1,0 +1,45 @@
+return {
+
+['洞穴入口5']='Cave Entrance5',
+
+['洞穴入口2']='Cave Entrance2',
+
+['洞穴入口4']='Cave Entrance4',
+
+['洞穴入口1']='Cave Entrance1',
+
+['洞穴入口3']='Cave Entrance3',
+
+['冰之圣殿']='Ice Temple',
+
+['研究前哨站']='Research Outpost',
+
+['地牢窖室1']='Jail Cellar1',
+
+['地牢窖室3']='Jail Cellar3',
+
+['北极熊巢穴1']='Polar Bear Den1',
+
+['雪地服饰店']='Snow Clothing Shop',
+
+['精灵小屋']='Fairy House',
+
+['工具工坊']='ToolWorkshop',
+
+['垂钓小屋']='Fishing Hut',
+
+['几维树桩']='Kiwi Stump',
+
+['要塞']='Stronghold',
+
+['地牢窖室2']='Jail Cellar2',
+
+['青蛙漩涡']='Frog Whirlpool',
+
+['北极熊巢穴2']='Polar Bear Den2',
+
+['地牢窖室4']='Jail Cellar4',
+
+['精灵之树']='Fairy Tree'
+
+}
