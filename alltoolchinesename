@@ -1,0 +1,21 @@
+local alltool = {
+    ['步枪'] = 'Rifle',
+    ['优质斧'] = 'Good Axe',
+    ['绷带'] = 'Bandage',
+    ['战术霰弹枪'] = 'Tactical Shotgun',
+    ['旧驯兽笛'] = 'Old Taming Flute',
+    ['强光手电筒'] = 'Strong Flashlight',
+    ['旧手电筒'] = 'Old Flashlight',
+    ['左轮手枪'] = 'Revolver',
+    ['冲击手雷'] = 'Impact Grenade',
+    ['强力斧'] = 'Strong Axe',
+    ['巨型麻袋'] = 'Giant Sack',
+    ['防御蓝图'] = 'Defense Blueprint',
+    ['医疗包'] = 'MedKit',
+    ['篮球'] = 'Basketball',
+    ['长矛'] = 'Spear',
+    ['优质麻袋'] = 'Good Sack',
+    ['冰斧'] = 'Ice Axe',
+    ['旧钓竿'] = 'Old Rod'
+}
+return alltool
